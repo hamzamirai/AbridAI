@@ -1,0 +1,7 @@
+{
+  "name": "Abrid AI Clone",
+  "description": "A multi-modal AI application inspired by abrid.io, leveraging various Gemini API features for chat, image/video generation, real-time conversation, and content analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
